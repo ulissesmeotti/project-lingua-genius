@@ -11,3 +11,6 @@ Frontend: Developed in TSX (TypeScript + JSX), using modern libraries to create 
 Backend: Database usage for storing user data and their learning progress.
 API Integration: The application interacts with an external API to integrate additional resources into the system.
 This project is a great way to practice both programming skills and learning a new language!
+
+![image](https://github.com/user-attachments/assets/bc14fa80-0653-4d5f-844f-4f637e29067b)
+(The project is still under development)
